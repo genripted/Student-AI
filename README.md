@@ -32,7 +32,7 @@ through this AI
 
 ## About This Project
 Built by a Grade 10 IB student in Waterloo Region, Canada.
-Started April 04, 2026. Two year build targeting a real pilot 
+Started April 20, 2026. Two year build targeting a real pilot 
 with local schools.
 
 ## Status
